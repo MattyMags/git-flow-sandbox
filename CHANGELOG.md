@@ -5,13 +5,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v2.4.0] - 2022-08-26
+
 ## [v2.3.0] - 2022-08-26
 
 ## [2.1.0] - 2022-08-26
 
 ## [v2.0.0] - 2022-08-26
 
-[Unreleased]: https://github.com/MattyMags/git-flow-sandbox/compare/v2.3.0...HEAD
+[Unreleased]: https://github.com/MattyMags/git-flow-sandbox/compare/v2.4.0...HEAD
+
+[v2.4.0]: https://github.com/MattyMags/git-flow-sandbox/compare/v2.3.0...v2.4.0
 
 [v2.3.0]: https://github.com/MattyMags/git-flow-sandbox/compare/2.1.0...v2.3.0
 
