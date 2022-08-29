@@ -20,7 +20,7 @@ jobs:
         uses: scottbrenner/generate-changelog-action@master
         id: Changelog
         with:
-          package-dir: "../package.json"
+          package-dir: "package.json"
       # - name: Update changelog
       #   uses: thomaseizinger/keep-a-changelog-new-release@1.1.0
       #   with:
