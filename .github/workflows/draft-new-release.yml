@@ -17,11 +17,11 @@ jobs:
       - name: Create release branch
         run: git checkout -b release/${{ github.event.inputs.version }}
       - name: Conventional Changelog Action
-          id: changelog 
-          uses: TriPSs/conventional-changelog-action@v3 
-          with: 
-              github-token: ${{ secrets.github_token } 
-              output-file: "false" 
+        id: changelog
+        uses: TriPSs/conventional-changelog-action@v3
+        with:
+          github-token: ${{ secrets.github_token }
+          output-file: "false"
       # - name: Update changelog
       #   uses: thomaseizinger/keep-a-changelog-new-release@1.1.0
       #   with:
