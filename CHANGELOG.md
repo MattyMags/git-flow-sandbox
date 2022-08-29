@@ -5,6 +5,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v2.6.0] - 2022-08-29
+
 ## [v2.5.0] - 2022-08-27
 
 ## [v2.4.0] - 2022-08-26
@@ -15,7 +17,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [v2.0.0] - 2022-08-26
 
-[Unreleased]: https://github.com/MattyMags/git-flow-sandbox/compare/v2.5.0...HEAD
+[Unreleased]: https://github.com/MattyMags/git-flow-sandbox/compare/v2.6.0...HEAD
+
+[v2.6.0]: https://github.com/MattyMags/git-flow-sandbox/compare/v2.5.0...v2.6.0
 
 [v2.5.0]: https://github.com/MattyMags/git-flow-sandbox/compare/v2.4.0...v2.5.0
 
