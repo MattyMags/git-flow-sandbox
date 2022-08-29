@@ -1,6 +1,6 @@
 {
   "name": "git-flow-sandbox",
-  "version": "v2.7.0",
+  "version": "v2.8.0",
   "description": "# Checked out dev branch",
   "main": "index.js",
   "scripts": {
